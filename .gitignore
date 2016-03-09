@@ -3,3 +3,5 @@
 Desktop.ini
 Thumbs.db
 *.iml
+_site
+.jekyll-metadata
