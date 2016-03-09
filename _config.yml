@@ -1,0 +1,8 @@
+name: Brian Monds
+description: bmonds
+url: http://www.brianmonds.com
+safe: true
+pygments: true
+markdown: kramdown
+permalink: /:year/:month/:day/:title
+exclude: ['README.md', '.gitignore', 'Gemfile', 'Gemfile.lock']
